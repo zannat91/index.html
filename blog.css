@@ -1,0 +1,10 @@
+div{
+    background-color: aquamarine;
+    color: blue;
+    width: 30px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    display: inline-block;
+}
